@@ -1,0 +1,120 @@
+nombreNodo: 0
+cantOpciones: 3
+resultado: 0
+nombreRama: 0
+valorDestino: 0
+
+nombreNodo: 0
+cantOpciones: 0
+resultado: 0
+nombreRama: 1
+valorDestino: 2
+
+nombreNodo: 0
+cantOpciones: 0
+resultado: 2
+nombreRama: 2
+valorDestino: 0
+
+nombreNodo: 0
+cantOpciones: 0
+resultado: 0
+nombreRama: 3
+valorDestino: 3
+
+nombreNodo: 2
+cantOpciones: 2
+resultado: 0
+nombreRama: 0
+valorDestino: 0
+
+nombreNodo: 2
+cantOpciones: 0
+resultado: 1
+nombreRama: 1
+valorDestino: 0
+
+nombreNodo: 2
+cantOpciones: 0
+resultado: 2
+nombreRama: 2
+valorDestino: 0
+
+nombreNodo: 3
+cantOpciones: 2
+resultado: 0
+nombreRama: 0
+valorDestino: 0
+
+nombreNodo: 3
+cantOpciones: 0
+resultado: 1
+nombreRama: 1
+valorDestino: 0
+
+nombreNodo: 3
+cantOpciones: 0
+resultado: 1
+nombreRama: 2
+valorDestino: 0
+
+nombreNodo: 0
+cantOpciones: 3
+resultado: 0
+nombreRama: 0
+valorDestino: 0
+
+nombreNodo: 0
+cantOpciones: 0
+resultado: 0
+nombreRama: 1
+valorDestino: 2
+
+nombreNodo: 0
+cantOpciones: 0
+resultado: 2
+nombreRama: 2
+valorDestino: 0
+
+nombreNodo: 0
+cantOpciones: 0
+resultado: 0
+nombreRama: 3
+valorDestino: 3
+
+nombreNodo: 2
+cantOpciones: 2
+resultado: 0
+nombreRama: 0
+valorDestino: 0
+
+nombreNodo: 2
+cantOpciones: 0
+resultado: 1
+nombreRama: 1
+valorDestino: 0
+
+nombreNodo: 2
+cantOpciones: 0
+resultado: 2
+nombreRama: 2
+valorDestino: 0
+
+nombreNodo: 3
+cantOpciones: 2
+resultado: 0
+nombreRama: 0
+valorDestino: 0
+
+nombreNodo: 3
+cantOpciones: 0
+resultado: 1
+nombreRama: 1
+valorDestino: 0
+
+nombreNodo: 3
+cantOpciones: 0
+resultado: 1
+nombreRama: 2
+valorDestino: 0
+
